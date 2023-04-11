@@ -2,7 +2,7 @@
 
 ## About me:
 
-I am a 2019 **MBA graduate from XLRI Jamshedpur (India)** with 3.5 years of experience at **Samsung Electronics** and **PhonePe** as HR Business Partner. I am currently pursuing datascience bootcamp from Jovian and (simultaeously) **MS in computer science** from Scaler, which has equiped me with skills to transition into Data Science. I am open to opportunities which will help me grow as a data science professional.
+I am a 2019 **MBA graduate from XLRI Jamshedpur (India)** with 3.5 years of experience at **Samsung Electronics** and **PhonePe** as HR Business Partner. I am currently pursuing datascience bootcamp from Jovian and (simultaneously) **MS in computer science** from Scaler, which has equiped me with skills to transition into Data Science. I am open to opportunities which will help me grow as a data science professional.
 
 ## Skills:
 
