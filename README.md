@@ -15,3 +15,4 @@ Web Scraping, SQL, MS Excel, MS PowerPoint, Tableau, Power BI, Python, Matplotli
 - [Web Scraping: Genre-wise data for top movies on IMDB](https://jovian.com/snehabajaj108/web-scraping-imdb)
 - [Data Analysis and Dashboarding using Tableau](https://public.tableau.com/views/Bookshop_16740312609430/Bookshop?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [SQL querying with Chinook Database](https://jovian.com/snehabajaj108/sql-querying-chinook-dataset)
+- [Netflix: Exploratory Data Analysis using Python](https://jovian.com/snehabajaj108/netflix-eda-project)
