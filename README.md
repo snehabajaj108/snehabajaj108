@@ -17,4 +17,5 @@ Web Scraping, SQL, MS Excel, MS PowerPoint, Tableau, Power BI, Metabase, Python,
 - [Telecom Customer Churn Analysis](https://www.kaggle.com/code/snehagilada/telecom-churn-analysis)
 - [Prediction of Taxi Fares in New York City using Machine Learning](https://jovian.com/snehabajaj108/ny-taxi-fare-prediction-by-sneha-bajaj)
 - [Web Scraping: Genre-wise data for top movies on IMDB](https://jovian.com/snehabajaj108/web-scraping-imdb)
-- [Data Analysis and Dashboarding using Tableau](https://public.tableau.com/views/Bookshop_16740312609430/Bookshop?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [News Classification using NLP](https://jovian.com/snehabajaj108/nlp-flipitnews)
+- [Identification of Loan Defaulters using Logistic Regression](https://jovian.com/snehabajaj108/logistic-regression-loantap)
